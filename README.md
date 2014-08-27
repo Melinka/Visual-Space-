@@ -49,9 +49,11 @@ Hardware:
 - Screen
 - Webcam
 
-The user interface allows you to load in a main video, for which you can select video controls that can be linked to different limbs along x, y and z. In addtion, a second video clip that can be mixed in on movement can be loaded into the system as well as an audio file. 
+---------------------------------------
 
-Controls can only be linked to one joint at a time. 
+The user interface features different panels that allow you to load in a main video clip for which you can select interactive video controls that can be linked to different limbs and their movement along x, y and z. In addtion, VS enables to load in a second video clip that can be mixed in on movement as well as an audio file. You can also select a video input source to enable the participant to mix in live-video. Make sure the controls for showing live video or the uploaded media are selected! Sound control is restricted to motion-based adjustment of volume as Visual Space focuses mainly on video manipulation. As soon as you have selected the controls of your choice and have loaded in all your media assets, you are ready to go! In order to be tracked you need to stand in front of the Kinect in a 'Y' shape position. The Processing library I'm using doesn't always track the user instantly, so please be patient!
+
+Each controls can only be linked to one joint at a time. 
 
 This video shows how to load in the media assets using the VS interface and demonstrates the interactions the application features:
 https://www.youtube.com/watch?v=44C15RXux3Q
