@@ -3,7 +3,12 @@ Visual-Space-
 
 Interactive, motion-based video manipulation. 
 
-Visual Space is an interactive installation
+Visual Space is an interactive, digital installation, which creates a fully immersive environment. The application uses computer vision technology to enable particpants to trigger video, sound and visual effects in real-time. The position of different limbs is detected via a Microsoft Xbox Kinect. Tracking data are extracted in Processing and manipulated in Max/MSP Jitter. In addition,
+the system features a customisable interface, which allows users to load in their own video clips and which offers a palette of effects to select from. As a result, every interaction is unique and individual to the user.
+
+Please note that this is environment has been created for single user interaction.
+
+-------------------------------------------
 
 System Requirements:
 -------
@@ -44,8 +49,9 @@ Hardware:
 - Screen
 - Webcam
 
-The user interface allows you to load in a main video, for which you can select video controls linked to different limbs along x, y and z,
-to select a second video clip that can be mixed in as well as to load in music. 
+The user interface allows you to load in a main video, for which you can select video controls that can be linked to different limbs along x, y and z. In addtion, a second video clip that can be mixed in on movement can be loaded into the system as well as an audio file. 
+
+Controls can only be linked to one joint at a time. 
 
 This video shows how to load in the media assets using the VS interface and demonstrates the interactions the application features:
 https://www.youtube.com/watch?v=44C15RXux3Q
